@@ -13,9 +13,9 @@ UBUNTU_DIR="$PREFIX/var/lib/proot-distro/installed-rootfs/ubuntu"
 banner() {
 	clear
 	cat <<- EOF
-		${Y}    _  _ ___  _  _ _  _ ___ _  _    _  _ ____ ___  
-		${C}    |  | |__] |  | |\ |  |  |  |    |\/| |  | |  \ 
-		${G}    |__| |__] |__| | \|  |  |__|    |  | |__| |__/ 
+		${Y}    _  _ ___  _  _ _  _ ___ _  _    _  _ ____ ___    |  |
+		${C}    |  | |__] |  | |\ |  |  |  |    |\/| |  | |  \   |  |    ¶
+		${G}    |__| |__] |__| | \|  |  |__|    |  | |__| |__/   |  |
 
 	EOF
 	echo -e "${G}     A modded gui version of ubuntu for Termux\n\n"${W}
