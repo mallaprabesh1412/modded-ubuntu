@@ -29,25 +29,25 @@
 ### Installation
 - Firstly install [Termux](https://termux.com) apk from [HERE](https://f-droid.org/repo/com.termux_118.apk)
 - Secondly Clone the Repository & Run the setup File
-
+      ---
   - `yes | pkg up`
   - `pkg install git wget -y`
   - `git clone --depth=1 https://github.com/modded-ubuntu/modded-ubuntu.git`
   - `cd modded-ubuntu`
   - `bash setup.sh`
-
+      ---
 - Then Restart your Termux & Type the following commands
-
+      ---
    - `ubuntu`
    - `bash user.sh`
-
+       ---
 - Type your ubuntu root username. Must be lowercase & no space included.
 
 - Then Again Restart your Termux & Type the following commands
-
+        ---
    - `ubuntu`
    - `sudo bash gui.sh`
-
+        ---
 - **You have to note your VNC password !!**
 
 - Ubuntu image is now successfully installed .
@@ -91,9 +91,7 @@ Termux Proot Distro - https://github.com/termux/proot-distro
 
 ### Maintainers
 
-- [**Mustakim Ahmed**](https://github.com/BDhackers009)
-- [**Tahmid Rayat**](https://github.com/htr-tech)
-- [**0xBaryonyx**](https://github.com/Mahfuz-THBD)
+- [**Prabesh Malla**](https://github.com/mallaprabesh1412)
 
 
 ### If you like our work then dont forget to give a Star :)
